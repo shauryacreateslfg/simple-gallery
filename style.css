@@ -9,3 +9,12 @@ body{
 .title{
     margin-bottom: -10px;
 }
+
+.gallery-image{
+    width: 300px;
+    height: 400px; 
+}
+
+.year2026{
+    margin-top: 80px;
+}
